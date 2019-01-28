@@ -1,1 +1,1 @@
-# summer-school-2019
+# Python for Data Science
