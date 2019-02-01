@@ -10,3 +10,6 @@
 
 ## Clase 2
 - Extracción y preprocesamiento de datos [[slides](https://docs.google.com/presentation/d/1Qhd2D4HCcudEQ658IRvldEs_EgDT3XPUe6GK4rBDTNU/edit?usp=sharing)]
+
+## Clase 3
+- Web scraping, análisis exploratorio y visualización [[slides](https://docs.google.com/presentation/d/1ykhwrVO4ZaynsUXtuZNmDoQkbS2IYj_KPSaK1Jh96qk/edit?usp=sharing)]
