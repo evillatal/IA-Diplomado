@@ -16,3 +16,6 @@
 
 ## Clase 4
 - Machine Learning [[slides](https://docs.google.com/presentation/d/1knNbzGTAe0rYUF1ZcxJChCzWZQ9q71z6a6GNnnOqTDI/edit?usp=sharing)]
+
+## Clase 5
+- Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)]
