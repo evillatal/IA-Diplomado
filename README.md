@@ -19,3 +19,6 @@
 
 ## Clase 5
 - Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)]
+
+## Clase 6
+- Transfer Learning, NLP, deployment [[slides](https://docs.google.com/presentation/d/170pzA1gqY5tLyMqg2-umrvPWZmyZKkk-23-0hLIm-r4/edit?usp=sharing)]
