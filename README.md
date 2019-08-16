@@ -1,8 +1,8 @@
-# Diplomatura-de-Especializacion-en-Desarrollo-de-Aplicaciones-con-IA
+# Diplomatura de Especialización en Desarrollo de Aplicaciones con IA
 
 Clases de los cursos de la diplomatura de especialización en desarrollo de aplicaciones con IA
 
-## Librerias a instalar:
+## Librerías a instalar:
 
 ### Tensorflow
 
