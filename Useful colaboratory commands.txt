@@ -1,0 +1,25 @@
+1.Cloning GitHub repository:
+!git clone <GitHub repo url>
+example: !git clone https://github.com/udacity/dog-project.git
+Above command will clone github repository on colab temporary storage.
+2. Then you can run following command to CD into directory:
+%cd <folder name>
+3. To see contents of folder you can run following command:
+!ls
+4. To install missing python packages you can run pip command as follows:
+!pip install tqdm
+Where tqdm is the package name
+5. To download files you can run following command:
+!wget <path to file>
+example:
+!wget https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+6. To create folder run following command:
+!mkdir <folder name>
+7. To remove folder , subfolder and files run following command:
+!rm -rf <folder name>
+8. To upload file to Google colab temporary store run following command
+from google.colab import files
+uploadedFile = files.upload()
+9. Mount to google drive
+from google.colab import drive
+drive.mount('/content/drive')
