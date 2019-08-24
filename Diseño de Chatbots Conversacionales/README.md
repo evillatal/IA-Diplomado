@@ -8,3 +8,6 @@
 
 ## Clase 3
 - Dependency Parsing AND POS-TAGGING [[Link](https://drive.google.com/drive/folders/1lTpdFrTBMqBMpACCtAhmRD52QPXiZRk4?usp=sharing)]
+
+## Clase 4
+- Question Answering [[Link](https://drive.google.com/drive/folders/1vdXRWu4SnWoLNAUahEHzsfO9HoJla_Iy?usp=sharing)]
