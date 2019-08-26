@@ -16,6 +16,7 @@
 
 ## Clase 4
 - Machine Learning [[slides](https://docs.google.com/presentation/d/1knNbzGTAe0rYUF1ZcxJChCzWZQ9q71z6a6GNnnOqTDI/edit?usp=sharing)] [[notebook 1](https://nbviewer.jupyter.org/github/iapucp/summer-school-2019/blob/master/notebooks/Clase%2004%20-%20Machine%20Learning.ipynb)] [[notebook 2](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2004%20-%20Validacion.ipynb)]
+- [Titanic Kaggle Kernel](https://www.kaggle.com/robertalonso29/titanic-simple-example?scriptVersionId=19593986)
 
 ## Clase 5
 - Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2005%20-%20Neural%20Networks.ipynb)]
