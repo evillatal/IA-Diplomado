@@ -16,8 +16,8 @@
 
 ## Clase 4
 - Machine Learning [[slides](https://docs.google.com/presentation/d/1knNbzGTAe0rYUF1ZcxJChCzWZQ9q71z6a6GNnnOqTDI/edit?usp=sharing)] [[Kaggle kernel](https://www.kaggle.com/robertalonso29/titanic-simple-example?scriptVersionId=19593986)] 
-- Competencia: [IA-PUCP Diplomado - Reto 1](https://www.kaggle.com/c/ia-pucp-diplomado-reto-1)
-- Competencia: [IA-PUCP Diplomado - Reto 2](https://www.kaggle.com/c/ia-pucp-diplomado-reto2)
+- Competencia: [IA-PUCP Diplomado - Reto 1](https://www.kaggle.com/t/ee3288b171d84b92bc1881a3b791a856)
+- Competencia: [IA-PUCP Diplomado - Reto 2](https://www.kaggle.com/t/b5d0833a6fd348e39d80c32bddab61d2)
 
 ## Clase 5
 - Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2005%20-%20Neural%20Networks.ipynb)]
