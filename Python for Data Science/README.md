@@ -20,7 +20,7 @@
 - Competencia: [IA-PUCP Diplomado - Reto 2](https://www.kaggle.com/t/b5d0833a6fd348e39d80c32bddab61d2)
 
 ## Clase 5
-- Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2005%20-%20Neural%20Networks.ipynb)]
+- Análisis de modelos, Deep Learning [[slides](https://docs.google.com/presentation/d/1EBPNOf2yFAuMMa67Jr883paU8S3nvGaYZiWDOXcn0AM/edit?usp=sharing)] [[notebook](https://nbviewer.jupyter.org/github/iapucp/IA-Diplomado/blob/master/Python%20for%20Data%20Science/classes/05%20-%20Feature_engineering.ipynb)]
 
 ## Clase 6
 - Transfer Learning, NLP, deployment [[slides](https://docs.google.com/presentation/d/170pzA1gqY5tLyMqg2-umrvPWZmyZKkk-23-0hLIm-r4/edit?usp=sharing)] [[notebook](http://nbviewer.ipython.org/urls/raw.github.com/iapucp/summer-school-2019/master/notebooks/Clase%2006%20-%20Clasificacion%20de%20Texto.ipynb)]
