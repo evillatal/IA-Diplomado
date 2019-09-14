@@ -17,3 +17,7 @@
 
 ## Clase 6
 - Conexión API FB Messenger [[Link](https://drive.google.com/drive/folders/1xhikW3Sp20xEj3-SwvYwin1FVPaNKQbo?usp=sharing)]
+
+## Clase 7
+- Speech to Text [[Link](https://drive.google.com/drive/folders/1y8kw3VkIhOpXpLdgBiFuZD1lrLA8gBjj?usp=sharing)]
+
