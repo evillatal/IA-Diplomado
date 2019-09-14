@@ -14,3 +14,6 @@
 
 ## Clase 5
 - NLTK.Chat [[Link](https://drive.google.com/drive/folders/1nAiecSjtFldn62BdV3OeaDsT9pNBcLLk?usp=sharing)]
+
+## Clase 6
+- Conexión API FB Messenger [[Link](https://drive.google.com/drive/folders/1xhikW3Sp20xEj3-SwvYwin1FVPaNKQbo?usp=sharing)]
