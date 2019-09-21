@@ -23,3 +23,6 @@
 
 ## Clase 8
 - Speech to Text using CNN [[Link](https://drive.google.com/drive/folders/1FeFf8kRbtxPNjgN11XOjxoUD2Su_jy6w?usp=sharing)]
+
+## Proyectos Finales
+Este es el [[Link](https://drive.google.com/drive/folders/1i3L76xHxNm4KnyiehS833ge0FsLH-k5P?usp=sharing)]
