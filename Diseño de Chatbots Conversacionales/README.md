@@ -21,3 +21,5 @@
 ## Clase 7
 - Speech to Text [[Link](https://drive.google.com/drive/folders/1y8kw3VkIhOpXpLdgBiFuZD1lrLA8gBjj?usp=sharing)]
 
+## Clase 8
+- Speech to Text using CNN [[Link](https://drive.google.com/drive/folders/1FeFf8kRbtxPNjgN11XOjxoUD2Su_jy6w?usp=sharing)]
