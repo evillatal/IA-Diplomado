@@ -3,7 +3,7 @@
 ## Active Competitions
 - [IA-PUCP Diplomado - Classification Challenge](https://www.kaggle.com/t/abbb8bc5a86447c6a67348be216006e8): Predecir el tipo de medalla que recibirá un atleta
 - [IA-PUCP Diplomado - Prediction Challenge](https://www.kaggle.com/t/b02f9cdc4d7d4414b9f94e3dfb901e09): Predecir el rating de una aplicación en Google Play Store
-- [IA-PUCP Diplomado - Img Challenge](https://www.kaggle.com/t/1ad4f046d91e421db1405e23e7336013): PPredecir la acción que se realiza en la imagen
+- [IA-PUCP Diplomado - Img Challenge](https://www.kaggle.com/t/1ad4f046d91e421db1405e23e7336013): Predecir la acción que se realiza en la imagen
 
 ## Clase 1
 - Introducción a Data Science [[slides](https://docs.google.com/presentation/d/1wrwjn2pkqSVgwV4OekrE955ey9spDm4xhmoqNMMZWGk/edit?usp=sharing)]
